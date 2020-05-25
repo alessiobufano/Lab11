@@ -1,7 +1,6 @@
 package it.polito.tdp.rivers.model;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class River {
 	private int id;
